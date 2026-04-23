@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2移除PVE集群中的故障节点.md",
+                "file": "PVE/移除PVE集群中的故障节点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2移除PVE集群中的故障节点"
+              "title": "移除PVE集群中的故障节点"
             }
           }
         ]
@@ -195,9 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a0f9a8f9ae8dd52",
+  "active": "956154259bac7e14",
   "lastOpenFiles": [
     "index.md",
+    "PVE/移除PVE集群中的故障节点2.md",
     "2移除PVE集群中的故障节点.md"
   ]
 }
